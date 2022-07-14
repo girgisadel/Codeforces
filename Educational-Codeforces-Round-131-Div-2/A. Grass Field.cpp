@@ -5,7 +5,7 @@
 using namespace std;
 
 typedef long long ll;
-#define jerjis_k_on_da_code ios::sync_with_stdio(false), cin.tie(0), cout.tie(0)
+#define burning_on_da_code ios::sync_with_stdio(false), cin.tie(0), cout.tie(0)
 #define all(v) (v).begin(), (v).end()
 #define X first
 #define Y second
@@ -33,7 +33,7 @@ void burn()
 }
 int main()
 {
-    jerjis_k_on_da_code;
+    burning_on_da_code;
 
     // freopen("", "r", stdin);
     // freopen("", "w", stdout);
