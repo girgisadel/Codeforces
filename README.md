@@ -16,3 +16,11 @@
   - [ ] E - Mirror Grid
   - [x] F - Yet Another Problem About Pairs Satisfying an Inequality
   - [ ] G - Good Key, Bad Key
+
+- Codeforces Round #808 (Div. 2) [Round](https://codeforces.com/contest/1708) - [My Solutions](https://github.com/gergis-k/Codeforces/tree/main/Round-808-Div2)
+  - [x] A - Difference Operations
+  - [ ] B - Difference of GCDs
+  - [ ] C - Doremy's IQ
+  - [ ] D - Difference Array
+  - [ ] E - DFS Trees
+  - [ ] F - Partial Virtual Trees
