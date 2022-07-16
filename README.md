@@ -14,5 +14,5 @@
   - [x] C - Cypher
   - [x] D - Double Strings
   - [ ] E - Mirror Grid
-  - [ ] F - Yet Another Problem About Pairs Satisfying an Inequality
+  - [x] F - Yet Another Problem About Pairs Satisfying an Inequality
   - [ ] G - Good Key, Bad Key
